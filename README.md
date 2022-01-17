@@ -46,6 +46,9 @@ La base de datos consta de registros desde el año 2012 al 2017, se realiza un p
 ## Conclusión y trabajos futuros
 La existencia de una base de datos con los registros del RUNT es una buena práctica para tomar medidas de control y optimizar el proceso, sin embargo, se cuenta con muy poco detalle en la inscripción de cada registro lo cual limita la creación de variables explicativas que mejoren el rendimiento del modelo. Para trabajos futuros se espera indagar más sobre el fenómeno a predecir, pues se sospecha la existencia de acontecimientos o funcionamiento interno que puede ayudar a predecir mucho la cantidad de registros y que solo se puede tener en cuenta con la ayuda de un experto.
 
+## Nota evaluador.
+En el repositorio se encuentran dos cuadernos .ipny . El primero Runt entrenamiento que es aquel donde se detalla la derivación y la elección del modelo y el segundo es Runt test que es donde se realizan las predicciones para el primer semestre del 2018. Los datos se disponen en una tabla html para una correcta previsualización en el repositorio, sin embargo, se exportaron los resultados en el archivo predicciones.xlsx que también se disponen en git.
+
 ## Referencias
   - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning (Vol. 112, p. 18). New York: springer.*
   - Ospina J. (2019) *Introducción a la analítica predictiva, Vehículos registrados en el RUNT. Material de clase especialización en Analítica Unal.*
