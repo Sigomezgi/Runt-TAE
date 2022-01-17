@@ -1,5 +1,9 @@
-# Runt-TAE
-## Predicción del número de vehículos registrados en el sistema de tránsito nacional
+<center> <h1> Predicción del número de vehículos registrados en el sistema de tránsito (RUNT) </h1> </center>
+<center> <h4> Juan Daniel Bula Isaza - Bryan Garcia Villa - Simón Gómez Giraldo - Carolina Quintero Osorio </h4> </center>
+<center> <h5> 17 de Enero de 2022 </h5> </center>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Resumen
 El RUNT se define como un sistema de gestión que permite registrar y mantener actualizada, centralizada, autorizada y validada la información sobre los registros de automotores, conductores, licencias de tránsito, empresas de transporte público, infractores, seguros, entre otros. Se trata de un sistema que está siendo actualizado constantemente, girando alrededor de un sistema centralizado de información de tránsito y transporte el cual opera bajo un esquema de colaboración que depende de la información provista, en línea y en tiempo real.
 El gran objetivo de este trabajo es la implementación de un modelo que permita predecir el número de vehículos registrados diariamente en el Registro Único Nacional de Tránsito (RUNT), utilizando como insumo principal la base de datos proporcionada para su elaboración, con el nombre de registros_autos, la cual incluye la fecha y el número de registros de vehículos en determinada fecha.
 ## Introducción
@@ -41,12 +45,14 @@ La base de datos consta de registros desde el año 2012 al 2017, se realiza un p
 La existencia de una base de datos con los registros del RUNT es una buena práctica para tomar medidas de control y optimizar el proceso, sin embargo, se cuenta con muy poco detalle en la inscripción de cada registro lo cual limita la creación de variables explicativas que mejoren el rendimiento del modelo. Para trabajos futuros se espera indagar más sobre el fenómeno a predecir, pues se sospecha la existencia de acontecimientos o funcionamiento interno que puede ayudar a predecir mucho la cantidad de registros y que solo se puede tener en cuenta con la ayuda de un experto.
 
 ## Referencias
-  - [Stackoverflow](https://stackoverflow.com/)
-  - [Towards Data Science](https://towardsdatascience.com/)
-  - [Geeks for geeks](https://www.geeksforgeeks.org/)
-  - [Pandas](https://pandas.pydata.org/)
-  - [Misra Turp](https://www.youtube.com/c/Soyouwanttobeadatascientist)
-  - [RUNT](https://www.runt.com.co/)
+  - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning (Vol. 112, p. 18). New York: springer.*
+  - Ospina J. (2019) *Introducción a la analítica predictiva, Vehículos registrados en el RUNT. Material de clase especialización en Analítica Unal.*
+  - Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Retrieved January 17, 2022, de: [Stackoverflow](https://stackoverflow.com/)
+  - Hacia la ciencia de datos. (n.d.). Retrieved January 17, 2022, de: [Towards Data Science](https://towardsdatascience.com/)
+  - FrikisparaGeeks | Un portal de informática para geeks. (n.d.). Retrieved January 17, 2022, de: [Geeks for geeks](https://www.geeksforgeeks.org/)
+  - pandas - Biblioteca de análisis de datos de Python. (n.d.). Retrieved January 17, 2022, de: [Pandas](https://pandas.pydata.org/)
+  - Mısra Turp - YouTube. (n.d.). Retrieved January 17, 2022, de: [Misra Turp](https://www.youtube.com/c/Soyouwanttobeadatascientist)
+  - RUNT (2019). RUNT EN CIFRAS. Obtenido de: [RUNT](https://www.runt.com.co/)
   
  ## Aplicativo Web
   - [RUNTapp](https://share.streamlit.io/sigomezgi/apliacacion-runt/Main.py)
