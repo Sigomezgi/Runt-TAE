@@ -1,5 +1,5 @@
 
-![](https://https://github.com/Sigomezgi/Runt-TAE/blob/main/images/log.unal.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/53/UNAL_Aplicaci%C3%B3n_Medell%C3%ADn.svg)
 
 <center> <h1> Predicción del número de vehículos registrados en el sistema de tránsito (RUNT) </h1> </center>
 <center> <h4> Juan Daniel Bula Isaza - Bryan Garcia Villa - Simón Gómez Giraldo - Carolina Quintero Osorio </h4> </center>
