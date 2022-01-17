@@ -1,7 +1,6 @@
 <center> <h1> Predicción del número de vehículos registrados en el sistema de tránsito (RUNT) </h1> </center>
 <center> <h4> Juan Daniel Bula Isaza - Bryan Garcia Villa - Simón Gómez Giraldo - Carolina Quintero Osorio </h4> </center>
 <center> <h5> 17 de Enero de 2022 </h5> </center>
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Resumen
 El RUNT se define como un sistema de gestión que permite registrar y mantener actualizada, centralizada, autorizada y validada la información sobre los registros de automotores, conductores, licencias de tránsito, empresas de transporte público, infractores, seguros, entre otros. Se trata de un sistema que está siendo actualizado constantemente, girando alrededor de un sistema centralizado de información de tránsito y transporte el cual opera bajo un esquema de colaboración que depende de la información provista, en línea y en tiempo real.
