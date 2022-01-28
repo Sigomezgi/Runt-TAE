@@ -72,6 +72,7 @@ En el repositorio se encuentran dos cuadernos .ipny . El primero [Runt entrenami
   <li>archivo 1</li>
   <li>archivo 2</li>
 </ul>
+
 ## Referencias
   - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning (Vol. 112, p. 18). New York: springer.*
   - Ospina J. (2019) *Introducción a la analítica predictiva, Vehículos registrados en el RUNT. Material de clase especialización en Analítica Unal.*
