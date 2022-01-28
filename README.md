@@ -65,12 +65,12 @@ El rendimiento del modelo se evalúo con el R2. Obteniéndose el más alto para 
 
 ## Nota evaluador.
 
-En el repositorio se encuentran dos cuadernos .ipny . El primero [Runt entrenamiento](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20entrenamiento.ipynb) que es aquel donde se detalla la derivación y la elección del modelo y el segundo es [Runt test](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20test.ipynb) que es donde se realizan las predicciones para el primer semestre del 2018. Los datos se disponen en una tabla html para una correcta previsualización en el repositorio, sin embargo, se exportaron los resultados en el archivo [predicciones.xlsx](https://github.com/Sigomezgi/Runt-TAE/blob/main/Predicciones.xlsx) que también se disponen en git.
+En el repositorio se encuentran dos cuadernos .ipny . El primero [Runt entrenamiento](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20entrenamiento.ipynb) que es aquel donde se detalla la derivación y la elección del modelo y el segundo es [Runt test](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20test.ipynb) que es donde se realizan las predicciones para el primer semestre del 2018. 
 
 ## Archivos planos
 <ul>
-  <li>archivo 1</li>
-  <li>archivo 2</li>
+  <li>[Predicciones entrenamiento](https://github.com/Sigomezgi/Runt-TAE/blob/main/entren2.txt)</li>
+  <li>[Predicciones evaluación](https://github.com/Sigomezgi/Runt-TAE/blob/main/Predicciones.txt)</li>
 </ul>
 
 ## Referencias
