@@ -68,7 +68,10 @@ El rendimiento del modelo se evalúo con el R2. Obteniéndose el más alto para 
 En el repositorio se encuentran dos cuadernos .ipny . El primero [Runt entrenamiento](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20entrenamiento.ipynb) que es aquel donde se detalla la derivación y la elección del modelo y el segundo es [Runt test](https://github.com/Sigomezgi/Runt-TAE/blob/main/Runt%20test.ipynb) que es donde se realizan las predicciones para el primer semestre del 2018. Los datos se disponen en una tabla html para una correcta previsualización en el repositorio, sin embargo, se exportaron los resultados en el archivo [predicciones.xlsx](https://github.com/Sigomezgi/Runt-TAE/blob/main/Predicciones.xlsx) que también se disponen en git.
 
 ## Archivos planos
-
+<ul>
+  <li>archivo 1</li>
+  <li>archivo 2</li>
+</ul>
 ## Referencias
   - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An introduction to statistical learning (Vol. 112, p. 18). New York: springer.*
   - Ospina J. (2019) *Introducción a la analítica predictiva, Vehículos registrados en el RUNT. Material de clase especialización en Analítica Unal.*
