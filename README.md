@@ -29,7 +29,7 @@ La estructura de las variables que contiene los datos es la siguiente:
 
 ![days](https://user-images.githubusercontent.com/94578395/148704453-100ed4b3-a84d-45ca-b6ba-7cdb4fd5c90a.jpg)
 
-                                         Figura 2: Inscripciones durante la semana
+                              Figura 2: Inscripciones durante la semana
 
 
 
@@ -59,7 +59,7 @@ El rendimiento del modelo se evalúo con el R2. Obteniéndose el más alto para 
 ![variables](https://user-images.githubusercontent.com/94578395/148703836-1456dc68-13bf-44df-a45f-708bd70af129.jpg)
 
 
-                                         Figura 3: Importancia de variables
+                                 Figura 3: Importancia de variables
 
 
 <p align = "justify"> En la figura 3, se aprecia que no existe una gran diferencia en el aporte de información de las variables seleccionados, a excepción de la variable vacaciones esto se explica a que este período no fue detallado estrictamente. </p>
