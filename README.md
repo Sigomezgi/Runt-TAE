@@ -23,7 +23,7 @@
 La estructura de las variables que contiene los datos es la siguiente:
 ![tenden](https://user-images.githubusercontent.com/94578395/148704601-0c3ed295-07ba-495e-985a-8db25a3427c2.jpg)
 
-                                              Figura 1: Distribución de registros RUNT
+                                         Figura 1: Distribución de registros RUNT
 
 <p align = "justify"> Se observa que cada mes es variable en su incremento de inscripción de vehículos, sin embargo, en los últimos años la cantidad de registros ha ido disminuyendo parcialmente. Se aprecia que, durante los meses de noviembre, diciembre, enero, febrero y marzo la cantidad de registros es creciente; una hipótesis que explica este hecho podría ser que se solapamiento de las vacaciones académicas con ingresos extras en los hogares colombianos, pues se espera que la mayoría de las inscripciones corresponden a personas que cumplen la edad requerida para sacar la licencia de conducción. Un acontecimiento para resaltar es que para los años 2012, 2013, 2014 y 2015 existe un crecimiento en el número de registros para el mes de julio que se explicaría a través de la hipótesis anteriormente planteada, sin embargo, este patrón desapareció para los años 2016 y 2017. </p>
 
