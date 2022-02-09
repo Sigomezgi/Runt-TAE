@@ -29,7 +29,7 @@ La estructura de las variables que contiene los datos es la siguiente:
 
 ![days](https://user-images.githubusercontent.com/94578395/148704453-100ed4b3-a84d-45ca-b6ba-7cdb4fd5c90a.jpg)
 
-                              Figura 2: Inscripciones durante la semana
+                    Figura 2: Inscripciones durante la semana
 
 
 
