@@ -25,13 +25,15 @@ La estructura de las variables que contiene los datos es la siguiente:
 
                                          Figura 1: Distribución de registros RUNT
 
-<p align = "justify"> Se observa que cada mes es variable en su incremento de inscripción de vehículos, sin embargo, en los últimos años la cantidad de registros ha ido disminuyendo parcialmente. Se aprecia que, durante los meses de noviembre, diciembre, enero, febrero y marzo la cantidad de registros es creciente; una hipótesis que explica este hecho podría ser que se solapamiento de las vacaciones académicas con ingresos extras en los hogares colombianos, pues se espera que la mayoría de las inscripciones corresponden a personas que cumplen la edad requerida para sacar la licencia de conducción. Un acontecimiento para resaltar es que para los años 2012, 2013, 2014 y 2015 existe un crecimiento en el número de registros para el mes de julio que se explicaría a través de la hipótesis anteriormente planteada, sin embargo, este patrón desapareció para los años 2016 y 2017. </p>
+<p align = "justify"> En la figura 1, se observa que cada mes es variable en su incremento de inscripción de vehículos, sin embargo, en los últimos años la cantidad de registros ha ido disminuyendo parcialmente. Se aprecia que, durante los meses de noviembre, diciembre, enero, febrero y marzo la cantidad de registros es creciente; una hipótesis que explica este hecho podría ser que se solapamiento de las vacaciones académicas con ingresos extras en los hogares colombianos, pues se espera que la mayoría de las inscripciones corresponden a personas que cumplen la edad requerida para sacar la licencia de conducción. Un acontecimiento para resaltar es que para los años 2012, 2013, 2014 y 2015 existe un crecimiento en el número de registros para el mes de julio que se explicaría a través de la hipótesis anteriormente planteada, sin embargo, este patrón desapareció para los años 2016 y 2017. </p>
 
 ![days](https://user-images.githubusercontent.com/94578395/148704453-100ed4b3-a84d-45ca-b6ba-7cdb4fd5c90a.jpg)
 
+                                         Figura 2: Inscripciones durante la semana
 
 
-<p align = "justify"> El gráfico anterior muestra la distribución de las inscripciones a lo largo de la semana. Las inscripciones son uniformes a lo largo de la semana y se ha mantenido a lo largo de los años. Hay una disminución en los sábados y domingos que corresponde con la reducción de la carga laboral. Las barras de cada día aumentan de izquierda a derecha para los años en los que se analiza la base de datos. </p>
+
+<p align = "justify"> La figura 2, muestra la distribución de las inscripciones a lo largo de la semana. Las inscripciones son uniformes a lo largo de la semana y se ha mantenido a lo largo de los años. Hay una disminución en los sábados y domingos que corresponde con la reducción de la carga laboral. Las barras de cada día aumentan de izquierda a derecha para los años en los que se analiza la base de datos. </p>
 
 
 ## Metodología
@@ -53,13 +55,20 @@ El rendimiento del modelo se evalúo con el R2. Obteniéndose el más alto para 
 
 <p align = "justify"> La importancia de las variables seleccionadas en el modelo se presenta a continuación:  </p>
 
+
 ![variables](https://user-images.githubusercontent.com/94578395/148703836-1456dc68-13bf-44df-a45f-708bd70af129.jpg)
 
-<p align = "justify"> Se aprecia que no existe una gran diferencia en el aporte de información de las variables seleccionados, a excepción de la variable vacaciones esto se explica a que este período no fue detallado estrictamente. </p>
+
+                                         Figura 3: Importancia de variables
+
+
+<p align = "justify"> En la figura 3, se aprecia que no existe una gran diferencia en el aporte de información de las variables seleccionados, a excepción de la variable vacaciones esto se explica a que este período no fue detallado estrictamente. </p>
 
 <p align = "justify"> La base de datos consta de registros desde el año 2012 al 2017, se realiza un particionamiento para el data set de prueba para los años 2012 hasta 2016 mientras que para el data set de prueba corresponde al 2017. Al sintonizar los parámetros se obtiene un R2 para la data set de entrenamiento de R2 = 78% y para el data set de prueba se obtiene R2= 70 %. Las predicciones para valores futuros se pueden observar en el aplicativo web que se adjunta al final del informe. </p>
 
 ![scatter](https://user-images.githubusercontent.com/94578395/148703559-ccb55a04-33fb-4a81-b3b2-1ed1f2fc79f5.png)
+
+                                         Figura 4: Gráfico predicción Vs real
 
 ## Conclusión y trabajos futuros
 
